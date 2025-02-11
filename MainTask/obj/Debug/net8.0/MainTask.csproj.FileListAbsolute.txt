@@ -1,0 +1,15 @@
+D:\DotNet Tasks\MainTask\obj\Debug\net8.0\MainTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet Tasks\MainTask\obj\Debug\net8.0\MainTask.AssemblyInfoInputs.cache
+D:\DotNet Tasks\MainTask\obj\Debug\net8.0\MainTask.AssemblyInfo.cs
+D:\DotNet Tasks\MainTask\obj\Debug\net8.0\MainTask.csproj.CoreCompileInputs.cache
+D:\DotNet Tasks\MainTask\obj\Debug\net8.0\MainTask.sourcelink.json
+D:\DotNet Tasks\MainTask\bin\Debug\net8.0\MainTask.exe
+D:\DotNet Tasks\MainTask\bin\Debug\net8.0\MainTask.deps.json
+D:\DotNet Tasks\MainTask\bin\Debug\net8.0\MainTask.runtimeconfig.json
+D:\DotNet Tasks\MainTask\bin\Debug\net8.0\MainTask.dll
+D:\DotNet Tasks\MainTask\bin\Debug\net8.0\MainTask.pdb
+D:\DotNet Tasks\MainTask\obj\Debug\net8.0\MainTask.dll
+D:\DotNet Tasks\MainTask\obj\Debug\net8.0\refint\MainTask.dll
+D:\DotNet Tasks\MainTask\obj\Debug\net8.0\MainTask.pdb
+D:\DotNet Tasks\MainTask\obj\Debug\net8.0\MainTask.genruntimeconfig.cache
+D:\DotNet Tasks\MainTask\obj\Debug\net8.0\ref\MainTask.dll
